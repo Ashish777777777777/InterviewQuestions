@@ -1,0 +1,38 @@
+Data Types:
+
+What are primitive data types in programming?
+Explain the difference between int and float data types.
+What is the purpose of a boolean data type, and what are its possible values?
+Describe the string data type and its characteristics.
+What is type casting, and why is it important in programming?
+How are arrays different from regular variables in terms of data storage?
+Operators:
+
+What is the difference between the "==" operator and the "===" operator in some programming languages?
+Explain the concept of short-circuit evaluation with logical operators.
+What is the ternary conditional operator, and how is it used?
+Describe the difference between the postfix and prefix increment operators (++x and x++).
+Conditional Statements:
+
+What is an if statement, and how does it work?
+Explain the purpose of the switch statement and when it is preferred over multiple if-else statements.
+What is the difference between "if" and "else if" statements?
+What is a nested if statement, and when is it useful?
+What is a conditional operator (ternary operator), and how is it used?
+Looping Statements:
+
+Describe the difference between a "for" loop and a "while" loop.
+Explain the concept of a "break" statement in a loop, and when is it used?
+What is an infinite loop, and how can it be avoided?
+How does a "continue" statement differ from a "break" statement in a loop?
+Discuss the use cases and advantages of a "for-each" loop.
+Functions:
+
+What is a function, and why is it essential in programming?
+Explain the difference between a function declaration and a function expression.
+What is the purpose of function parameters and return values?
+What is function overloading, and is it supported in the programming language you are familiar with?
+Describe the concept of a recursive function and provide an example.
+What is the difference between a local variable and a global variable within a function?
+Explain the concept of a callback function and provide a real-world example.
+How can you pass functions as arguments to other functions (higher-order functions)?
